@@ -12,9 +12,9 @@ Includes replay options and a clean game-over screen.
 ✅ Game Over screen when a player reaches the score limit
 ✅ Replay system — choose Best of 3 / 5 / 7 or exit
 ✅ Sound effects for:Paddle hits , Wall bounces,Scoring
-```
-**Folder structure**
 
+**Folder structure**
+```
 pygame-pingpong/
 ├── main.py                      # Main game file
 ├── requirements.txt             # Python dependencies
@@ -37,6 +37,7 @@ Add 3 sound files inside the sounds/ folder:paddle_hit.mp3,wall_hit.mp3,score.mp
 Use free sounds from https://pixabay.com/sound-effects/
 
 **Installation & Running**
+```
 1.Clone this repository:
 git clone https://github.com/<your-username>/pingpong.git
 cd pingpong 
@@ -47,7 +48,7 @@ pip install -r requirements.txt
 3.Run the game:
 python main.py
 
-
+```
 **Game Rules**
 
 First to reach 5 points wins by default.
