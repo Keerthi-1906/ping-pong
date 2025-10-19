@@ -13,7 +13,7 @@ Includes replay options and a clean game-over screen.
 ✅ Replay system — choose Best of 3 / 5 / 7 or exit
 ✅ Sound effects for:Paddle hits , Wall bounces,Scoring
 
-**Folder structure**
+## **Folder structure**
 pygame-pingpong/
 ├── main.py
 
@@ -40,7 +40,7 @@ Use free sounds from https://pixabay.com/sound-effects/
 **Installation & Running**
 1.Clone this repository:
 git clone https://github.com/<your-username>/pingpong.git
-cd pygame-pingpong
+cd pingpong
 
 2.Install dependencies:
 pip install -r requirements.txt
