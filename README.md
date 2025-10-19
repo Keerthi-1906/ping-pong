@@ -12,7 +12,7 @@ Includes replay options and a clean game-over screen.
 ✅ Game Over screen when a player reaches the score limit
 ✅ Replay system — choose Best of 3 / 5 / 7 or exit
 ✅ Sound effects for:Paddle hits , Wall bounces,Scoring
-
+```
 **Folder structure**
 
 pygame-pingpong/
@@ -29,7 +29,7 @@ pygame-pingpong/
 └── README.md                    # Project documentation
 
 └── README.md
-
+```
 **Sound Setup**
 
 Add 3 sound files inside the sounds/ folder:paddle_hit.mp3,wall_hit.mp3,score.mp3
